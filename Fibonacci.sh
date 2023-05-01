@@ -33,3 +33,4 @@ do
 done
 
 echo
+echo "This is a test for SCM"
